@@ -1,0 +1,48 @@
+body{
+  background-color: #ddf3f5;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+  background-color: white;
+  color: #086972;
+  font-family: 'Galada', cursive;
+  font-weight: lighter;
+  margin: 40px auto 20px auto;
+  font-size: 6rem;
+  padding: 10px;
+}
+
+button{
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid white;
+    border-radius: 20%;
+}
+
+.container{
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+
+.btn-1{
+  background-color: #ccafaf;
+}
+.btn-2{
+  background-color: #ffcac2;
+}
+.btn-3{
+  background-color: #fc9d9d;
+}
+.btn-4{
+  background-color: #900c3f;
+}
+
+.wrong{
+  background-color: #e8505b;
+}
